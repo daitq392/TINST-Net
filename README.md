@@ -1,7 +1,7 @@
 # TINST-Net: A Novel Neural Style Transfer using Mixture of Text and Image
 *Accepted to MAPR 2024*
 
-![Project Image](images/styletransfer.png)
+![Project Image](images/styletransfer)
 
 TINST-Net is a novel framework for neural style transfer that leverages both text descriptions and reference images to create artistic transformations. It combines the power of **CLIP**, **VGG-19**, and **U-Net** to achieve refined style transfer and creative style blending.
 
